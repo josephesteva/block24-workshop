@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+
+body {
+	background-color: aquamarine;
+}
+
+/* p { 
+	color: brown;
+} */
+
+div:hover {
+	background-color: aqua;
+	color:orange;
+}
